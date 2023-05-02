@@ -17,6 +17,10 @@ body{
     padding: 0 1rem;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 header, .hero-section, .courses-section, footer{
     border-color: var(--color-black);
     border-style: solid;
